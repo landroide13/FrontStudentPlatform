@@ -1,0 +1,7 @@
+{
+  "name": "studentPlatform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
